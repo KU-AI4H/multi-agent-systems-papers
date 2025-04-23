@@ -11,6 +11,7 @@
 ## Knowledge Graphs
 - [Constructing Virtual Knowledge Graphs from Unstructured Documents for QA](https://arxiv.org/pdf/2008.08995)
 - [LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph](https://arxiv.org/pdf/2504.03137)
+- [A GraphRAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130)
 
 ## Other
 - [Mixture-of-Agents Enhances LLM Capabilities](https://arxiv.org/pdf/2406.04692)
